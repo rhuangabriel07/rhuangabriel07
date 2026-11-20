@@ -1,16 +1,23 @@
-## Hi there 👋
+### Olá, eu sou o Rhuan Gabriel 👋
 
-<!--
-**rhuangabriel07/rhuangabriel07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduando em **Engenharia de Produção** na **UERJ**  
+💻 **Técnico em Informática** pelo Centro Interescolar Miécimo da Silva  
 
-Here are some ideas to get you started:
+Busco unir a visão analítica e de melhoria de processos da Engenharia com ferramentas de programação e análise de dados para construir soluções práticas e eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagens & Web:** PHP, JavaScript, HTML5, CSS3, Python *(em estudo)*
+- **Bancos de Dados:** MySQL, SQL
+- **Análise & Produtividade:** Excel, Git & GitHub
+
+---
+
+### 🚀 Projeto em Destaque
+- **[Projeto Tech](https://github.com/rhuangabriel07/ProjetoTech-GitHub):** Plataforma web completa de impacto social desenvolvida como TCC (aprovada com nota máxima), com sistema de matrícula em turmas presenciais, controle de vagas, painel administrativo e emissão/validação de certificados em PHP e MySQL.
+
+---
+
+### 📫 Contato
+- **LinkedIn:** [linkedin.com/in/rhuan-barauna](https://www.linkedin.com/in/rhuan-barauna) *(ajuste para a sua URL exata)*
